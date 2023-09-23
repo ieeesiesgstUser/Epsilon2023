@@ -91,10 +91,10 @@ input[type="radio"]{
     color:rgb(232, 230, 219);
 } */
 #hd-box{
-    width: 92%;
+    width: 75%;
     height: 15vh;
     opacity: 1.5;
-    background-image: url("Banner (WiE Logo Updated).png");
+    background-image: url("Banner (Without Logos).png");
     background-size: 100% 100%;
     background-repeat: no-repeat;
     margin-bottom: 15px;
